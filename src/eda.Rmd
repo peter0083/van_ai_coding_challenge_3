@@ -24,7 +24,8 @@ train <- read_csv("../data/train.csv")
 ```{r Data Explorer for EDA}
 
 # use DataExplorer package for EDA
-create_report(train, output_file = "train_eda_report.html", output_dir = "../results/")
+#create_report(train, output_file = "train_eda_report.html", output_dir = "../results/")
 
 ```
 
+The EDA report can be found [here](../results/train_eda_report.html)
