@@ -44,4 +44,22 @@ The EDA report can be found [here](../results/train_eda_report.html)
 
 > `Product_Category_3` has an alarmingly high percentage of 69.67%. I have too many missing rows in this feature. I may have to drop this feature altogether.
 
+4. Check levels of `Product_ID`
 
+```{r check product ID}
+
+# check levels of Product_ID
+
+barplot(table(train$Product_ID))
+
+```
+
+> Doesn't look very helpful. I still do not see the number of levels in the barplot.
+
+```{r convert text into factors}
+
+train$Product_ID <- as.factor(train$Product_ID)
+nlevels(train$Product_ID)
+```
+
+> There are 3631 different product IDs. I should be careful when handling it as dummies.
