@@ -29,3 +29,9 @@ train <- read_csv("../data/train.csv")
 ```
 
 The EDA report can be found [here](../results/train_eda_report.html)
+
+### Observation
+
+1. This training set has 550k rows of data with 12 columns. There are 5 discrete columns and 7 continuous columns.
+
+> This data set has a good ratio of observations per feature. It may not be safe to assume that I have avoided the curse of dimensionality problem because I have not converted the discrete features into dummy variables yet. 
