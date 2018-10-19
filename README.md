@@ -17,3 +17,8 @@ documentation explaining your exploration
 To submit, post your submission's repository link on the # coding_challenge Slack channel (on the Vancouver School of AI workspace) before the due date.
 
 link to Statistical Learning I repo: https://github.com/SchoolofAI-Vancouver/statistical_learning_1
+
+
+### Black Friday - most valued customer 
+
+Data source: [Kaggle](https://www.kaggle.com/abhisingh10p14/black-friday)
