@@ -19,6 +19,8 @@ To submit, post your submission's repository link on the # coding_challenge Slac
 link to Statistical Learning I repo: https://github.com/SchoolofAI-Vancouver/statistical_learning_1
 
 
-### Black Friday - most valued customer 
+### Black Friday - Purchase Prediction
 
 Data source: [Kaggle](https://www.kaggle.com/abhisingh10p14/black-friday)
+
+Please access the file [model.ipynb](src/model.ipynb) for my linear regression model.

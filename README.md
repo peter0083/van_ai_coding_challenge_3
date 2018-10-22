@@ -22,3 +22,5 @@ link to Statistical Learning I repo: https://github.com/SchoolofAI-Vancouver/sta
 ### Black Friday - Purchase Prediction
 
 Data source: [Kaggle](https://www.kaggle.com/abhisingh10p14/black-friday)
+
+Please access the file [model.ipynb](src/model.ipynb) for my linear regression model.
