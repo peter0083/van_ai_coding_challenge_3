@@ -23,4 +23,6 @@ link to Statistical Learning I repo: https://github.com/SchoolofAI-Vancouver/sta
 
 Data source: [Kaggle](https://www.kaggle.com/abhisingh10p14/black-friday)
 
+Motivation: Black Friday is about a month away. :smile:
+
 Please access the file [model.ipynb](src/model.ipynb) for my linear regression model.
